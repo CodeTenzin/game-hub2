@@ -15,3 +15,6 @@ wrap with abbreviation
 select 
 cmd + shift + p
 wrap with  abbreviation
+
+const [selectedGenre, setSelectedGenre] = useState<Genre | null>(null);
+can hold genre object or null.
