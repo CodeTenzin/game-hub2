@@ -1,5 +1,5 @@
 finding source files: cmd + t
-organize import: cmd + shjift + p
+organize import: cmd + shift + p
 move code: option + direction
 
 color={}  only for foreground
@@ -9,3 +9,8 @@ using crop in url
 https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg
 to 
 https://media.rawg.io/media/crop/600/400/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg
+
+wrap with abbreviation
+select 
+cmd + shift + p
+wrap with  abbreviation
