@@ -1,3 +1,6 @@
 finding source files: cmd + t
 organize import: cmd + shjift + p
 move code: option + direction
+
+color={}  only for foreground
+colorScheme={} for foreground, background, border and all.
