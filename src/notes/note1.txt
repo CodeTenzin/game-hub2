@@ -1,0 +1,3 @@
+finding source files: cmd + t
+organize import: cmd + shjift + p
+move code: option + direction
