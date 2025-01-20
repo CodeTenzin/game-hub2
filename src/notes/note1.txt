@@ -30,3 +30,6 @@ Index Signature
   };
 tells ts compiler that this object can have any number of keys
 and the keys are number
+
+Smart-Swatch.netlify.app
+change entire color palate.
