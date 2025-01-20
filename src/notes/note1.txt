@@ -21,3 +21,12 @@ can hold genre object or null.
 
 Button by default dont wrap texts. no-wrap default.
 <Button whiteSpace="normal">
+
+Index Signature
+  const emojiMap: { [key: number]: ImageProps } = {
+    3: { src: meh, alt: "meh" },
+    4: { src: thumbsUp, alt: "recommended" },
+    5: { src: bullsEye, alt: "exceptional" },
+  };
+tells ts compiler that this object can have any number of keys
+and the keys are number
